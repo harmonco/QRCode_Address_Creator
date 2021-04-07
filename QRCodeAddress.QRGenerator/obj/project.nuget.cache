@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yh9GNiiMzJJMjoUUFganNRsOjZnkoMMPMd9Fh4ygHhSjqemTvFYr7f4WpWXejBzUm16AkLXV5m6XfmES89wi8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cjhar\\source\\repos\\QRCodeAddress\\QRCodeAddress.QRGenerator\\QRCodeAddress.QRGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjhar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cjhar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cjhar\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\cjhar\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

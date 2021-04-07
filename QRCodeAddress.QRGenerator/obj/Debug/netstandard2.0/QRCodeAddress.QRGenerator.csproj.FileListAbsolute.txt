@@ -1,0 +1,9 @@
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\bin\Debug\netstandard2.0\QRCodeAddress.QRGenerator.deps.json
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\bin\Debug\netstandard2.0\QRCodeAddress.QRGenerator.dll
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\bin\Debug\netstandard2.0\QRCodeAddress.QRGenerator.pdb
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.AssemblyInfoInputs.cache
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.AssemblyInfo.cs
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.dll
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.pdb
+C:\Users\cjhar\source\repos\QRCodeAddress\QRCodeAddress.QRGenerator\obj\Debug\netstandard2.0\QRCodeAddress.QRGenerator.csprojAssemblyReference.cache
